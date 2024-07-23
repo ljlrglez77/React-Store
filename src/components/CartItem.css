@@ -1,0 +1,67 @@
+.myCart {
+    display: flex;      
+    margin: 20px auto 40px auto ;
+    border-radius: 20px;
+    box-shadow: 0px 3px 15px #f5c0ca;
+    width: 500px;
+    height: 250px;    
+    align-items: center;
+}
+.cBody{ 
+    height: 100%;
+    background-color: #f5bbc6;    
+    border-radius: 0 20px 20px 0;
+    padding: 10px;
+    right: 0px;
+    border-left:hidden;
+    width: 100%;
+}
+.cImages{
+   width: 200px; 
+   margin-top: 10px;   
+   border-radius: 20px;
+}
+
+.caddButton {
+    background-color: #f38c9f;
+    color: white;
+    margin-top: 10px;    
+    
+}
+
+.caddButton:hover {
+    background-color: #d24C7e;    
+}
+.cPrice{
+    margin: 10px auto;
+    display: inline-block;
+}
+.countHandler button{
+    width: 25px;
+    height: 30px;
+    padding: 0;
+    background-color: #d24C7e;
+    color: white;
+    border-radius: 0;
+}
+.countHandler input {
+    width: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 0;
+    border: 0;
+    color:#d24C7e;
+    text-align: center;
+}
+.countHandler button:nth-child(1) {
+    border-radius: 5px 0  0 5px;
+}
+.countHandler button:last-child {
+    border-radius: 0 5px 5px 0 ;
+}
+.cDesc{
+    height: 70px;
+    margin-top: 5px;
+    
+}
+   

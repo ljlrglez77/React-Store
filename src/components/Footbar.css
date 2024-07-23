@@ -1,0 +1,26 @@
+.footbar{
+    
+    bottom: 0;
+
+    position:fixed; 
+    overflow:hidden;
+    width: 100vw;
+    flex-direction: column;
+    
+    height: 40px;
+    margin-top: 30px;  
+    margin-bottom: 0;  
+    background-color: #f38c9f;
+    
+    
+    justify-content: space-between;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+.footbar h4{ 
+    color: white;
+}

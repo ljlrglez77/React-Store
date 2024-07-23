@@ -1,0 +1,37 @@
+.navbar {
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+    background-color: #f38c9f;
+    /*border-radius: 10px;
+     padding: 20px;
+    */
+    
+}
+
+.navbutton {
+    background-color: #f38c9f;
+    color: white;     
+    margin-top: 15px;
+    
+}
+.navbutton:hover {
+    color: #d24C7e;
+   border: #f38c9f;
+}
+.myImgCart {
+    width: 50px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.myImgLogo {
+    width: 200px;
+    left: 0;
+    top:0;
+
+}

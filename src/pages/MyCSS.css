@@ -1,0 +1,175 @@
+p, button, h2{
+    color: #d24C7e;
+}
+
+h1, h3{
+    color: #f38c9f;
+}
+h3{
+    margin-bottom: 60px;
+}
+p {
+    text-align: justify;
+}
+
+input{
+    width: 300px;
+    margin: 10px;
+    height: 30px;
+    border: #d24C7e solid 1px;
+    font: #d24C7e;
+}
+
+.myInput{
+    height: 100px;
+}
+
+.tbutton {
+    background-color: #f38c9f;
+    color: white;
+    margin: 10px;
+}
+.tbuttonA {
+    background-color: #f38c9f;
+    color: white;
+    margin: 20px 0px 40px 0px;
+}
+.bCheck {
+    background-color: #d24C7e;
+    color: white;
+    margin-top: 10px;
+    top:100px;
+    right: 30px;
+    position: fixed;
+}
+
+
+.yImages{
+   width: 200px; 
+   margin-top: 10px;
+}
+.removeButton {
+    background-color: #f38c9f;
+    color: white;
+    margin: 20px 10px;   
+    
+}
+.aImag{
+    width: 65%;
+    margin: 70px;
+    
+    border-radius: 25px;
+}
+.banner{
+    margin-top: 90px;
+    width:90%;
+    box-shadow: 0px 3px 15px #f5c0ca;
+    border-radius: 25px;
+    
+}
+
+.bCheck{
+    background-color: #f38c9f; 
+}
+input{
+    background-color: #f1cfd6;
+    border-radius: 5px;
+    
+}
+form{
+    
+    padding: 15px;
+    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 3px 15px #f5c0ca;
+}
+.myh1Title{
+    margin-bottom: 20px;
+    margin-top: 70px;
+   
+}
+
+.myh1Cart{
+    margin-top: 100px;
+}
+.elBanner{
+    width: 100%;
+}
+.myContainer{
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 3px 15px #f5c0ca;
+    border-radius: 25px;
+}
+
+.myContainer p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.imgCart{
+    width: 60%;
+   
+}
+.cartContainer{
+    width: 100%;
+    align-items: center;   
+    
+}
+.cartChild{
+    display: inline-block;
+    margin-top: 75px;
+    
+    
+}
+.checkout{
+   
+    width: 500px;
+    margin: auto;
+    box-shadow: 0px 3px 15px #f5c0ca;
+    border-radius: 20px;
+    height: 100%;
+    margin-bottom: 90px;
+    padding-top: 5px;
+}
+.checkout h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#f38c9f
+}
+
+table th:nth-child(odd){
+    padding-left: 60px;  
+    text-align: left;  
+}
+table th:nth-child(even){
+    padding-left: 20px;    
+}
+
+table{
+    color: #d24C7e;
+    margin-bottom: 20px;
+}
+.cartB{
+    background-color: #f38c9f;
+    color: white;
+    margin: 20px;
+}
+.ctotal{
+    border-top: dotted 1px #f38c9f;
+    width: 70%;
+    margin: auto; text-align: left;
+}
+#finalStep{
+    display: none;
+}
+#msent{
+    display: none;
+}
+#placed{
+    margin-bottom: 70px;
+}
+#formul{
+    margin-bottom: 70px;
+}
